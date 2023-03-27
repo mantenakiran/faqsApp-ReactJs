@@ -1,0 +1,35 @@
+/* Write your code here. */
+.list-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #d7dae6;
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.text-container {
+  display: flex;
+  justify-content: space-between;
+}
+.question-text {
+  font-family: 'Roboto';
+  color: #52606d;
+  font-size: 18px;
+  font-weight: 500;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.logo {
+  height: 25px;
+}
+.line {
+  border: 1px solid #d7dae6;
+}
+.answer-text {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+  font-size: 16px;
+}
